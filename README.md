@@ -1,7 +1,3 @@
-# Express Starter Project
+# Express Golden Globe Nominees | Code Along 
 
-This project includes the packages and babel setup for an express server, and is just meant to make things a little simpler to get up and running with.
-
-## Getting started
-
-Install dependencies with `npm install`, then start the server by running `npm run dev`
+A REST API created during a code along during the Technigo Bootcamp 2021. Practiced setting up an Express Server and querying a database with different end points. 
